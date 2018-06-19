@@ -2,7 +2,7 @@
 layout: page
 title: music
 permalink: /music/
-description: i am a really mediocre dj
+description: バリバリ！ギリギリ！
 ---
 
 While I was fortunately raised by parents with pretty good music tastes of the normal variety, I first got exposed to various types of electronic music through the [Bemani](https://en.wikipedia.org/wiki/Bemani) game [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) (DDR) at my local arcade. There was just something about the high-energy rhythms that spoke to me on a profound level. 
@@ -15,7 +15,7 @@ Gear Path:
 * **DDJ-RX** (2017-2018)
 * **SL1200s + Kontrol Z2** (2018+)
 
-I primarily spin UK Hardcore and J-core. Lately I've been playing a lot more Future Bass, Jersey Club, and Anison. Someday I'll be good enough for MOGRA. (笑)
+I primarily spin UK Hardcore and J-core. Lately I've been playing a lot more Future Bass, Jersey Club, and Anison. Someday I'll be good enough for [MOGRA](http://club-mogra.jp/). (笑)
 
 <details open>
 <summary>DDJ-RX Era Sets</summary>

@@ -2,7 +2,7 @@
 layout: page
 title: work
 permalink: /work/
-description: 
+description: カタカタカタカタ—
 ---
 
 ### Sekai Project / Denpasoft

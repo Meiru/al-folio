@@ -4,7 +4,7 @@
 name: dandere
 email: meiru@dandere.com
 description: > # this means to ignore newlines until "url:"
-  a silly website for a silly person
+  Borrowed from Japanese ダンデレ (dandere), a portmanteau of 黙り (danmari, “keeping silent”), from verb 黙る (damaru, “to be silent”), and デレデレ (dere-dere, “to become lovey-dovey, infatuated, lovestruck”).
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and sheer force of will.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,8 +17,10 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: meiru # your GitHub user name
+github_username: # your GitHub user name
 twitter_username: meirujp # your Twitter handle
+steam_username: meiru
+twitch_username: meirujp
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -30,7 +32,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: heartslash
+blog_name: ハートスラッシュ
 blog_description: blah blah blah tidal wave
 
 timezone: America/Los_Angeles
