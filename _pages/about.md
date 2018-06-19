@@ -1,23 +1,23 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Meiru
+description: editor / typesetter / production artist
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
+  image: lalala.jpg
+/* address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your City, State 12345</p> */
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name's **Meiru**. By trade I work on Light Novels, Visual Novels, and Manga to fuel my addiction for eventing and idols. I've been working on JP/EN translations projects for more than half my life, it'd be crazy to stop now.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Through the years my focus has been, and will always be, to deliver the most accurate and impactful narrative possible. Whether it be shaping the text and formatting or uses typefaces and clever layouting, it's all in pursuit of that ideal.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time I like to play rhythm games (poorly) and DJ from the comfort of my own room. I have a seemingly endless amount of curiosity and dabble in all sorts of miscellaneous things.
