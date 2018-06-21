@@ -40,7 +40,7 @@ description: カタカタカタカタ—
 
 ***
 
-### Skills/Proficiencies
+### Skills / Proficiencies
 
 **Languages**  
 Japanese (Intermediate), English (Native)
