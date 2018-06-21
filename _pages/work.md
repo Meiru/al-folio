@@ -8,7 +8,7 @@ description: カタカタカタカタ—
 ### Sekai Project / Denpasoft
 
 **Lead Editor**  
-• ???????? <span style="color:red">**(18+)**</span>  
+• ?????? <span style="color:red">**(18+)**</span>  
 • [Girls in Glasses](https://denpasoft.com/products/girls-in-glasses) <span style="color:red">**(18+)**</span>  
 • Miko no Kanata <span style="color:red">**(18+)**</span>  
 • [A Light in the Dark](https://store.steampowered.com/app/766280/)
@@ -27,9 +27,9 @@ description: カタカタカタカタ—
 
 **Lead Editor**  
 • [Infinite Stratos](https://j-novel.club/s/infinite-stratos)  
-• ?????????
+• ??????
 
-### Solpress USA
+### Sol Press
 
 **Lead Editor**  
 • [Strongest Gamer: Let’s Play in Another World](https://www.amazon.com/dp/B07CGZZT1J)
@@ -37,3 +37,20 @@ description: カタカタカタカタ—
 **Typesetting / Production**  
 • [Strongest Gamer: Let’s Play in Another World](https://www.amazon.com/dp/B07CGZZT1J)  
 • [Battle Divas: The Incorruptible Battle Blossom Princess](https://www.amazon.com/dp/B07CJHDY13)
+
+***
+
+### Skills/Proficiencies
+
+**Languages**  
+Japanese (Intermediate), English (Native)
+
+**Translation Tools**  
+SDL Trados, Word, Excel, Google Docs
+
+**Production Tools**  
+Photoshop, Illustrator, InDesign, Clip Studio Paint, Sigil, Aegisub
+
+**Development**  
+HTML, CSS, PHP, Javascript, NodeJS
+

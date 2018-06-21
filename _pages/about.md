@@ -16,8 +16,8 @@ news: false
 social: true
 ---
 
-Hi, my name's **Meiru**. By trade I work on Light Novels, Visual Novels, and Manga to fuel my addiction for eventing and idols. I've been working on JP/EN translations projects for more than half my life thus far, it'd be crazy to stop now.
+Hi, my name's **Meiru**. I work on Light Novels, Visual Novels, and Manga to fuel my addiction for eventing and idols. I've been working on JP/EN translation projects for more than half my life thus far, it'd be crazy to stop now.
 
-Through the years my focus has been, and will always be, to deliver the most accurate and impactful narrative possible. Whether it be shaping the text and formatting or uses typefaces and clever layouting, it's all in pursuit of that ideal.
+Through the years my focus has been to deliver the most accurate and impactful experience possible—whether it be shaping the text and formatting or using typefaces and clever layouting, it's all in pursuit of that ideal.
 
 In my spare time I like to play rhythm games (poorly) and DJ from the comfort of my own room. I have a seemingly endless amount of curiosity and dabble in all sorts of miscellaneous things.
